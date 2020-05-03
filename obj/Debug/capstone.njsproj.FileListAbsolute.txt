@@ -1,0 +1,2 @@
+D:\Documents\GitHub\capstone_setup\capstone\obj\Debug\capstone.njsprojAssemblyReference.cache
+D:\Documents\GitHub\capstone_setup\capstone\bin\Microsoft.NodejsTools.WebRole.dll
