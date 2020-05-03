@@ -3,9 +3,7 @@
   "version": "0.0.0",
   "description": "capstone",
   "main": "server.js",
-  "author": {
-    "name": ""
-  },
+  "author": "",
   "dependencies": {
     "bcrypt": "^3.0.6",
     "ejs": "^3.1.2",
@@ -13,5 +11,18 @@
     "express-session": "^1.17.1",
     "mysql": "^2.18.1",
     "request": "^2.88.2"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpearceCSUMB/capstone.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SpearceCSUMB/capstone/issues"
+  },
+  "homepage": "https://github.com/SpearceCSUMB/capstone#readme"
 }
